@@ -16,3 +16,6 @@ Our busy everyday schedules can be hard to keep up with. From meetings to appoin
 * sets the current hour block to red, past hours to blue, and future hours to green
 * lets user input an event, saves it to localstorage, and displays it on the page even after refresh
 * displays current date in the header
+
+![image](https://user-images.githubusercontent.com/54565666/75305675-670d5400-580c-11ea-8388-2be4ae86bb67.png)
+
